@@ -2,7 +2,7 @@
 
 Sudoku is a group project for Object Oriented Programming course in the fourth semester, where students were asked to create a game using the concept of Object Oriented Programming. The game was developed using Eclipse IDE 2020-6 and specifically in Java 8 version 291. The repository contains both the folder of the project and the executable file (.exe) of the Sudoku game.
 
-## A Brief Explanation and Instructions on Installation
+### A Brief Explanation and Instructions on Installation
 Sudoku is a puzzle game where players need to insert and arrange the number 1 to 9 in a board containing 9 by 9 cells. The rules are each row, columns, and squares (an area containing 3 by 3 cells) cannot contain a repeating number.
 
 Before installing the executable file (.exe) of the Sudoku game, the user needs to install or have java 8 installed into the system. The java 8 installer can be downloaded through [this link](https://java.com/en/download/).
@@ -11,7 +11,7 @@ After installing java 8, download the executable file (.exe) that can be seen as
 
 ![image](https://user-images.githubusercontent.com/45966986/196965714-14cd224f-273f-4df9-84c1-2124eb29a77e.png)
 
-Further details regarding the project can be accessed by opening [the documentation].
+Further details regarding the project can be accessed by opening [the documentation](Kelompok 9 - Sudoku - Documentation.pdf).
 
 Below are the pictures of the game interface.
 
@@ -29,7 +29,7 @@ Image 2. Game Difficulty interface of Sudoku
 
 Image 3-5: The game interface with backgrounds color coded based on difficulty. (Green = easy, Blue = medium, Red = hard)
 
-## References
+### References
 https://commons.wikimedia.org/wiki/File:Sudoku-by-L2G-20050714modif.svg
 
 https://github.com/mattnenterprise/Sudoku 

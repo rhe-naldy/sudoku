@@ -30,5 +30,5 @@ Image 3-5: The game interface with backgrounds color coded based on difficulty. 
 
 
 # References
-https://commons.wikimedia.org/wiki/File:Sudoku-by-L2G-20050714modif.svg 
+https://commons.wikimedia.org/wiki/File:Sudoku-by-L2G-20050714modif.svg
 https://github.com/mattnenterprise/Sudoku 

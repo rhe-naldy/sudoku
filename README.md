@@ -11,7 +11,8 @@ After installing java 8, download the executable file (.exe) that can be seen as
 
 ![image](https://user-images.githubusercontent.com/45966986/196965714-14cd224f-273f-4df9-84c1-2124eb29a77e.png)
 
-Further details regarding the project can be accessed by opening *PUT LINK HERE*
+Further details regarding the project can be accessed by opening [the documentation](sudoku/Kelompok 9 - Sudoku - Documentation.pdf).
+
 Below are the pictures of the game interface.
 
 ![image](https://user-images.githubusercontent.com/45966986/196966142-7c750fb7-2de9-4650-b434-2e618e265e08.png)

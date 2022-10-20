@@ -12,23 +12,24 @@ After installing java 8, download the executable file (.exe) that can be seen as
 
 ![image](https://user-images.githubusercontent.com/45966986/196965714-14cd224f-273f-4df9-84c1-2124eb29a77e.png)
 
+Further details regarding the project can be accessed by opening *PUT LINK HERE*
 Below are the pictures of the game interface.
 
 ![image](https://user-images.githubusercontent.com/45966986/196966142-7c750fb7-2de9-4650-b434-2e618e265e08.png)
 
 Image 1. Main Menu of Sudoku
 
+
 ![image](https://user-images.githubusercontent.com/45966986/196966229-5dffe140-5d3c-448a-8a07-1705857e7dd5.png)
 
 Image 2. Game Difficulty interface of Sudoku
+
 
 ![image](https://user-images.githubusercontent.com/45966986/196966346-f1ef67da-f961-4301-a6ef-6246b0613cb3.png)   ![image](https://user-images.githubusercontent.com/45966986/196966362-4705b2bc-91e0-478f-a1ea-3951ff41d3de.png)   ![image](https://user-images.githubusercontent.com/45966986/196966401-f57c7466-99c3-48cf-8853-f3ece7ac72b2.png)
 
 Image 3-5: The game interface with backgrounds color coded based on difficulty. (Green = easy, Blue = medium, Red = hard)
 
-
-
-
 # References
 https://commons.wikimedia.org/wiki/File:Sudoku-by-L2G-20050714modif.svg
+
 https://github.com/mattnenterprise/Sudoku 

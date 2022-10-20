@@ -5,8 +5,7 @@ Sudoku is a group project for Object Oriented Programming course in the fourth s
 # A Brief Explanation and Instructions on Installation
 Sudoku is a puzzle game where players need to insert and arrange the number 1 to 9 in a board containing 9 by 9 cells. The rules are each row, columns, and squares (an area containing 3 by 3 cells) cannot contain a repeating number.
 
-Before installing the executable file (.exe) of the Sudoku game, the user needs to install or have java 8 installed into the system. The java 8 installer can be downloaded through the link below. 
-Java 8 Installer: https://java.com/en/download/
+Before installing the executable file (.exe) of the Sudoku game, the user needs to install or have java 8 installed into the system. The java 8 installer can be downloaded through [this link](https://java.com/en/download/).
 
 After installing java 8, download the executable file (.exe) that can be seen as below. The file can be placed anywhere within the system and the player can play Sudoku directly by opening the executable file.
 
